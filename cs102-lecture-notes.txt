@@ -1,0 +1,5 @@
+pwd  : Command pwd prints the current working directory in an absolute path format.
+cd : Command cd changes the current working directory to the given directory as an argument. If no argument is given, cd changes the current working directory to the logged-in user’s home directory.
+mkdir : This command creates a directory.
+cp : This command copies directories or files from one directory to the other.
+rm : This command deletes a file or a directory.
